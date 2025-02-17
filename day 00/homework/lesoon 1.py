@@ -1,4 +1,4 @@
-from turtle import* 
+from turtle import*  
 
 
 
@@ -62,4 +62,4 @@ right(90)
 forward(70) 
 left(90) 
 forward(145)
-exitonclick()
+exitonclick() 

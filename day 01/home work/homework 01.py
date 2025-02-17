@@ -6,4 +6,4 @@ city = "tbilisi"
 country = "georgia" 
 print(name) 
 print(name + " " + str(age)) 
-print("l live in " + city +", " +country + " and l am " + str(age) + " years old.")
+print("l live in " + city +", " +country + " and l am " + str(age) + " years old.") 
