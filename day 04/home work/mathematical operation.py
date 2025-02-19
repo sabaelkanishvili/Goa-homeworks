@@ -1,0 +1,23 @@
+print(30 + 40) 
+print(45 + 45) 
+print(66 + 4) 
+print(58 + 27) 
+print(88 + 12) 
+
+print(55 - 25)
+print(67 - 60)
+print(40 - 30) 
+print(55 - 25) 
+print(55 - 5)  
+ 
+print(25 * 5) 
+print(4 * 3) 
+print(5 * 4) 
+print(8 * 4) 
+print(9 * 4) 
+
+print(25/5)
+print(50/5)
+print(100/20) 
+print(64/8) 
+print(30/5)
